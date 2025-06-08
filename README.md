@@ -1,7 +1,7 @@
 # kang
 1. ccnet.py
 CCNet（Criss-Cross Network）
-引入了 Criss-Cross Attention Module，可在水平方向和垂直方向上进行上下文信息聚合，以减少全局自注意力的计算开销，从而提升分割精度，尤其适合处理空间结构复杂的图像。
+引入了 Criss-Cross Attention Module，可在水平方向和垂直方向上进行上下文信息聚合，以减少全局自注意力的计算开销，从而提升分割j精度，尤其适合处理空间结构复杂的图像。
 
 2. cdunet.py
 CD-UNet（Change Detection U-Net）
